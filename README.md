@@ -1,6 +1,6 @@
 ## Travel Is Life ✈️
 • HTML, CSS and JavaScript 📂 <br>
-• Website about traveling ✅ <br>
+• Website about traveling 🌏<br>
 • Responsive Design ✅
 
 ## Screenshots 📱
@@ -8,6 +8,9 @@
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+## 🌐 Link
+<a href="https://travel-is-life-dejvcodes.netlify.app/">Travel Is Life</a>
 
 ## License🔐
 [MIT License](LICENSE)
