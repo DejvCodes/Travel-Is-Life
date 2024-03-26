@@ -488,7 +488,7 @@ img {
 /* --------------- Responsive --------------- */
 @media screen and (max-width: 1550px) {
     .home {
-        padding-top: 9rem;
+        padding-top: 11rem;
     }
     .home-btn {
         margin-bottom: 3rem;
