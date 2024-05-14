@@ -13,4 +13,4 @@
 <a href="https://travel-is-life-dejvcodes.netlify.app/">Travel Is Life</a>
 
 ## License🔐
-[MIT License](LICENSE) 
+[MIT License](LICENSE)
