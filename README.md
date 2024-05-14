@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ## 🌐 Link
-<a href="https://travel-is-life.netlify.app/">Travel Is Life</a>
+<a href="https://travel-is-life.netlify.app/">Travel Is Life</a> 
 
 ## License🔐
 [MIT License](LICENSE)
